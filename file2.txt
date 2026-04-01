@@ -1,1 +1,1 @@
-Modifica dal ramo main
+risoluzione merge
